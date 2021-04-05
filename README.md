@@ -1,3 +1,3 @@
 # Dr. Prachi Natu
 ## Personal WebSite
-![image name]()
+![](https://raw.githubusercontent.com/prachi-natu/prachi-natu.github.io/main/TEA0003.png)
